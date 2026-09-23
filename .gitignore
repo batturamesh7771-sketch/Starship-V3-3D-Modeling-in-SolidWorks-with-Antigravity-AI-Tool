@@ -1,0 +1,5 @@
+# SolidWorks temporary lock files
+~$*
+*.bak
+*.swp
+*.tmp
