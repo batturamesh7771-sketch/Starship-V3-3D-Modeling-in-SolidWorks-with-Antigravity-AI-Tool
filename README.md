@@ -1,4 +1,6 @@
 # ?? SpaceX Starship V3 3D Modeling in SolidWorks with Antigravity AI Tool
+[![Author](https://img.shields.io/badge/Author-ELONIKHIL-blue.svg)](https://github.com/batturamesh7771-sketch)
+
 
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-2026%20SP04.1-red.svg)](https://www.solidworks.com/)
 [![Scale](https://img.shields.io/badge/Scale-1%3A1%20(150.0m)-blue.svg)]()
@@ -15,18 +17,18 @@ A 1:1 scale, physics-based, volumetric 3D manifold CAD model of the **SpaceX Sta
 Starship-V3-3D-Modeling-in-SolidWorks-with-Antigravity-AI-Tool/
 +-- README.md                                  # Complete engineering & project documentation
 +-- CAD_Models/                                # Native SolidWorks 2026 Parts & Assembly
-¶   +-- Starship_Block3_FullStack_150m.SLDASM  # Master 150m Full Stack Top-Down Assembly
-¶   +-- Starship_Block3_150m_SinglePart.SLDPRT # Unified 150m Single-Part Solid Model
-¶   +-- Starship_Stage2_Master.SLDPRT          # 70.0m Upper Stage (Volumetric Flaps, 9 Raptors, TPS)
-¶   +-- SuperHeavy_Stage1_Master.SLDPRT        # 76.5m Booster (33 Raptors, Lattice Grid Fins)
-¶   +-- HotStaging_Interstage_Master.SLDPRT    # 3.5m Vented Interstage Ring (24 Ports)
+¬¶   +-- Starship_Block3_FullStack_150m.SLDASM  # Master 150m Full Stack Top-Down Assembly
+¬¶   +-- Starship_Block3_150m_SinglePart.SLDPRT # Unified 150m Single-Part Solid Model
+¬¶   +-- Starship_Stage2_Master.SLDPRT          # 70.0m Upper Stage (Volumetric Flaps, 9 Raptors, TPS)
+¬¶   +-- SuperHeavy_Stage1_Master.SLDPRT        # 76.5m Booster (33 Raptors, Lattice Grid Fins)
+¬¶   +-- HotStaging_Interstage_Master.SLDPRT    # 3.5m Vented Interstage Ring (24 Ports)
 +-- Automation_Scripts/                        # SolidWorks COM API Automation Scripts
-¶   +-- build_master_starship_block3.vbs       # Full stack assembly automation engine
-¶   +-- build_single_part.vbs                  # Consolidated single part builder
-¶   +-- open_assembly.vbs                      # Direct viewport loader script
+¬¶   +-- build_master_starship_block3.vbs       # Full stack assembly automation engine
+¬¶   +-- build_single_part.vbs                  # Consolidated single part builder
+¬¶   +-- open_assembly.vbs                      # Direct viewport loader script
 +-- Prompts/                                   # System Prompts & Aerospace Engineering Directives
-¶   +-- Aerospace_Master_Prompt_V3.md          # Exhaustive aerospace-grade master prompt
-¶   +-- Revision_Prompt_Block3_Full_Fix.md     # 2D wireframe to 3D solid manifold revision prompt
+¬¶   +-- Aerospace_Master_Prompt_V3.md          # Exhaustive aerospace-grade master prompt
+¬¶   +-- Revision_Prompt_Block3_Full_Fix.md     # 2D wireframe to 3D solid manifold revision prompt
 +-- Specifications/                            # Structural Blueprints & Dimensional Baselines
     +-- Vehicle_Structural_Specifications.md   # Official dimensions & engine specs table
 ```
@@ -37,7 +39,7 @@ Starship-V3-3D-Modeling-in-SolidWorks-with-Antigravity-AI-Tool/
 
 | Sub-Assembly | Height | Outer Diameter | Key Features |
 | :--- | :--- | :--- | :--- |
-| **Starship (Stage 2)** | $70.0\,\text{m}$ | $9.0\,\text{m}$ | 3D Aft Flaps (11.5m chord), Forward Flaps, 9 Raptors (3 SL + 6 Vac), 180∞ TPS Tile Shield |
+| **Starship (Stage 2)** | $70.0\,\text{m}$ | $9.0\,\text{m}$ | 3D Aft Flaps (11.5m chord), Forward Flaps, 9 Raptors (3 SL + 6 Vac), 180¬∞ TPS Tile Shield |
 | **Hot-Staging Interstage** | $3.5\,\text{m}$ | $9.0\,\text{m}$ | 24 open exhaust vents, forward dome thermal blast deflection cap |
 | **Super Heavy (Stage 1)** | $76.5\,\text{m}$ | $9.0\,\text{m}$ | 33 Raptor 3 engines (20 Outer + 10 Mid + 3 Inner), 4 Lattice Grid Fins ($3.0\text{m}\times2.2\text{m}$) |
 | **Total Stack** | **$150.0\,\text{m}$** | **$9.0\,\text{m}$** | Full-stack 1:1 scale manufacturing baseline |
@@ -82,3 +84,10 @@ cscript //nologo Automation_Scripts\build_master_starship_block3.vbs
 - **Design & Engineering:** Antigravity AI Engineering Engine & Pair Programmer
 - **Target Platform:** SolidWorks 2026 SP04.1
 - **GitHub Profile:** [@batturamesh7771-sketch](https://github.com/batturamesh7771-sketch)
+
+---
+
+## üë®‚Äçüíª Author & Attribution
+* **Lead Architect & Engineer:** **ELONIKHIL** (@batturamesh7771-sketch)
+* **Project Series:** PROJECT 02 of the Aerospace Engineering Portfolio
+* **License:** [MIT License](LICENSE) (c) 2026 ELONIKHIL
